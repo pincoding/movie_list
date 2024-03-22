@@ -20,7 +20,7 @@
     "swiper": "^11.0.7",
     "web-vitals": "^2.1.4"
   },
-  "homepage" : "https://pincoding/movie_list/#/",
+  "homepage" : "https://pincoding/movie_list/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
