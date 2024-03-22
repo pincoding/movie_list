@@ -20,6 +20,7 @@
 
 -[x] react-router-dom -[x] styled-components -[x] styled-reset -[x] react-hook-form -[x] helmet-async -[x] font-awesome -[x] swiper -[x] react-icons
 
-#### md : 마크다운 언어 (mark down language)
-
+#### github 업로드
+- gh-pages
+<!-- - uninstall(지우는 방법은) -->
 #### 마크다운 검색 해서 언어보기
