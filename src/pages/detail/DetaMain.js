@@ -69,7 +69,7 @@ const Con = styled.div`
     .info,
     p {
       font-size: 15px;
-      line-height: 70px;
+      line-height: 18px;
     }
   }
 `;

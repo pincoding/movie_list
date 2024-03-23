@@ -72,15 +72,15 @@ export const Header = () => {
   return (
     <Container ref={headerRef}>
       <Logo>
-        <Link to={routes.home}>홈</Link>
+        <Link to={routes.home}>PinMoive</Link>
       </Logo>
 
       <Nav>
         <li>
-          <Link to={routes.home}>홈</Link>
+          <Link to={routes.home}>Home</Link>
         </li>
         <li>
-          <Link to={routes.search}>SEARCH</Link>
+          <Link to={routes.search}>SEARCH(검색)</Link>
         </li>
       </Nav>
     </Container>
